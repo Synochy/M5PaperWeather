@@ -22,7 +22,6 @@
   
 #include <M5EPD.h>
 #include "Config.hpp"
-#include "ConfigOverride.hpp" // Remove this line
 #include "Data.hpp"
 #include "Display.hpp"
 #include "Battery.hpp"
